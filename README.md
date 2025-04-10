@@ -93,7 +93,7 @@ Transformation matrix:
            0            0            0            1
 Aligned cloud saved to 'aligned_cloud.pcd'
 ```
-### Video Representation of the Visualized Output
+### Visualized Output
 
 ![Video](output_video.gif)
 ---
