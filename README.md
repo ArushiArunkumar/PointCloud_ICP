@@ -95,7 +95,7 @@ Aligned cloud saved to 'aligned_cloud.pcd'
 ```
 ### Video Representation of the Visualized Output
 
-![](output_video.gif)
+![Video](output_video.gif)
 ---
 
 ## Acknowledgements
