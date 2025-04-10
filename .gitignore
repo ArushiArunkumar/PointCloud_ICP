@@ -1,0 +1,5 @@
+/pointcloud_icp/build
+/venv3.11/
+test
+test.cpp
+.vscode/
